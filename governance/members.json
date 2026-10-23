@@ -1,7 +1,10 @@
 {
   "members": {
     "bernardSolar": {
-      "level": "established"
+      "level": "established",
+      "linked": [
+        "anarres-sandbox-member-b"
+      ]
     }
   }
 }
