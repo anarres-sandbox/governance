@@ -4,7 +4,10 @@
       "level": "trusted"
     },
     "anarres-sandbox-member-b": {
-      "level": "established"
+      "level": "established",
+      "linked": [
+        "anarres-sandbox-member-c"
+      ]
     }
   }
 }
