@@ -3,5 +3,10 @@
     "bernardSolar": {
       "level": "trusted"
     }
+  },
+  "review": {
+    "ledger-mvw2pxhd2": [
+      "parser-s33"
+    ]
   }
 }
