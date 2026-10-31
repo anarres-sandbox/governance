@@ -3,5 +3,10 @@
     "bernardSolar": {
       "level": "trusted"
     }
+  },
+  "review": {
+    "ledger-mvwetinb1": [
+      "parser-s15"
+    ]
   }
 }
