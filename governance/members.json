@@ -6,5 +6,10 @@
     "anarres-sandbox-member-b": {
       "level": "trusted"
     }
+  },
+  "review": {
+    "ledger-mvw2pxhd2": [
+      "parser-s35"
+    ]
   }
 }
