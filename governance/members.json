@@ -3,10 +3,5 @@
     "bernardSolar": {
       "level": "trusted"
     }
-  },
-  "highRisk": {
-    "ledger-mvwcarnj1": [
-      "not/plainly"
-    ]
   }
 }
