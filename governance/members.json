@@ -2,14 +2,6 @@
   "members": {
     "bernardSolar": {
       "level": "trusted"
-    },
-    "anarres-sandbox-member-b": {
-      "level": "trusted"
     }
-  },
-  "review": {
-    "ledger-mvwa4gbo0": [
-      "parser-s17"
-    ]
   }
 }
